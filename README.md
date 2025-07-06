@@ -4,7 +4,7 @@ Group3 Members
 - GATERA K Jessica 27630
 - NDAMIRA Josias 27838
 - Familoni Emmanuel Eniola 25951
--
+-Iradukunda Kubana Christian 27143
 -
 
 # 📚 Group3 Question 1 - Student Management System
