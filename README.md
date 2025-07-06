@@ -1,11 +1,11 @@
 # 📚 Group3 Members
 
-1.SHEMA Moses 26590
-2.GATERA K Jessica 27630
-3.
-4.
-5.
-6.
+-SHEMA Moses 26590
+-GATERA K Jessica 27630
+-
+-
+-
+-
 
 # 📚 Group3 Question 1 - Student Management System
 
