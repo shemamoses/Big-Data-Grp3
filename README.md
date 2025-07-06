@@ -5,7 +5,7 @@ Group3 Members
 - NDAMIRA Josias 27838
 - Familoni Emmanuel Eniola 25951
 -  Iradukunda Kubana Christian 27143
--  MILINDI Shema David
+-  MILINDI Shema David 25914
 
 # 📚 Group3 Question 1 - Student Management System
 
