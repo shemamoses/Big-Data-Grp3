@@ -178,7 +178,4 @@ check_palindrome()
 
 ## 👨‍🎓 Created By Group 3
 
-**Group 3**  
-Student Project Submission – Question 1
-
 ---
