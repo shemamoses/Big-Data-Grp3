@@ -3,8 +3,9 @@ Group3 Members
 - SHEMA Moses 26590
 - GATERA K Jessica 27630
 - NDAMIRA Josias 27838
-- Familoni Emmanuel Eniola 25951                                                                                                                                              
--Iradukunda Kubana Christian 27143
+- Familoni Emmanuel Eniola 25951
+-  Iradukunda Kubana Christian 27143
+-  MILINDI Shema David
 
 # 📚 Group3 Question 1 - Student Management System
 
