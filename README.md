@@ -1,7 +1,7 @@
 ###📚 Group3 Members
 
--SHEMA Moses 26590
--GATERA K Jessica 27630
+- SHEMA Moses 26590
+- GATERA K Jessica 27630
 -
 -
 -
