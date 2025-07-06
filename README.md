@@ -107,6 +107,75 @@ Average Grade: 85.00
 
 ---
 
+# 🔁 Group3 Question 2 - Palindrome Checker
+
+## 📌 Description
+This project implements a simple Palindrome Checker using Python. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., madam, racecar). This program takes a string input from the user and checks if it is a palindrome, ignoring case differences.
+
+## ✅ Features
+Accepts any string input from the user.
+
+Reverses the string and compares it with the original.
+
+Ignores case sensitivity for comparison.
+
+Provides a clear message indicating whether the input is a palindrome or not.
+
+## 🧑‍💻 How to Run the Program
+1. Make sure you have Python 3.x installed on your system.
+
+2. Copy the code below into a file named palindrome_checker.py.
+
+3. Open your terminal or command prompt.
+
+4. Navigate to the folder where the file is saved.
+
+5. Run the program with:
+
+   ```bash
+    python palindrome_checker.py
+    ```
+    
+## 🧾 Python Code
+
+```python
+    def check_palindrome():
+    text = input("\nEnter a string to check if it's a palindrome: ")
+    reversed_text = text[::-1]
+
+    if text.lower() == reversed_text.lower():
+        print("Yes, it is a palindrome")
+    else:
+        print("No, it is not a palindrome")
+
+# Call the function
+check_palindrome()
+
+```
+## 📋 Sample Output
+
+```
+    Enter a string to check if it's a palindrome: RaceCar
+    Yes, it is a palindrome
+
+```
+
+```
+    Enter a string to check if it's a palindrome: Python
+    No, it is not a palindrome
+
+```
+
+## 📝 Notes
+
+* The check is not case-sensitive.
+
+* Spaces, punctuation, and numbers are not removed, so the program works best for single words or clean phrases.
+
+* You can improve it further by ignoring spaces and non-alphanumeric characters.
+
+
+
 ## 👨‍🎓 Created By Group 3
 
 **Group 3**  
