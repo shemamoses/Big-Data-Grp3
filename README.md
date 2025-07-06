@@ -2,7 +2,7 @@ Group3 Members
 
 - SHEMA Moses 26590
 - GATERA K Jessica 27630
--
+- NDAMIRA Josias 27838
 -
 -
 -
